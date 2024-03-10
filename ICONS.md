@@ -1,7 +1,7 @@
 <p align="center">
   <h2 align="center"> 🔵 Web Service Icons </h3>
   <p align="center">
-    <a href="https://github.com/vcantrell/ServiceIcons/blob/main/ICONS.md">
+    <a href="https://github.com/vcantrell/ServiceIcons/blob/master/ICONS.md">
       <img alt="Web Service Icon Repo" src="https://img.shields.io/badge/vcantrell-WebServiceIcons-brightgreen?style=plastic&logo=icon">
     </a>
   </p>
