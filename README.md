@@ -13,7 +13,6 @@
     <br />
   </p>
 </p>
-<div align="center">
 
 # 📖 Table of Contents
 
@@ -77,4 +76,3 @@ Please read the [Contributing Guidelines](CONTRIBUTING.md) before contributing t
 Please read the [LICENSE](LICENSE) for information regarding the use of our software and assets. By accessing or using this repository, you agree to be bound by the terms and conditions of the license.
 
 If you have any questions or concerns regarding the license, please contact me at git@vgit.us before using or distributing the contents of this repository.
-
