@@ -8,10 +8,10 @@ path = root / "../ICONS.md"
 
 
 def generate_img_tag(file):
-    return f'<a href="https://github.com/vcantrell/ServiceIcons/blob/master/Icons/{file.name}"><img src="https://raw.githubusercontent.com/vcantrell/ServiceIcons/master/Icons/{file.name}" alt="{file.stem}" height="50"></a>'
+    return f'<a href="https://github.com/vcantrell/ServiceIcons/blob/master/png/{file.name}"><img src="https://raw.githubusercontent.com/vcantrell/ServiceIcons/master/png/{file.name}" alt="{file.stem}" height="50"></a>'
 
 
-imgs = sorted(Path("../Icons").glob("*.png"))
+imgs = sorted(Path("../png").glob("*.png"))
 img_tags = [generate_img_tag(x) for x in imgs]
 line_number = 0
 

@@ -40,20 +40,20 @@ There are many Dashboards available that you can use with Dashboard Icons. Here 
 
 ### 🛠️ Installation
 
-**Tip!** You can access Dashboard Icons online, faster, by using `https://raw.githubusercontent.com/vcantrell/ServiceIcons/master/Icons/example.png`. Just replace `example` with the name of the icon!
+**Tip!** You can access Dashboard Icons online, faster, by using `https://raw.githubusercontent.com/vcantrell/ServiceIcons/master/png/example.png`. Just replace `example` with the name of the icon!
 
 To download an icon from the [icons page](ICONS.md), simply `Right click > Save link as`.
 
 For non-desktop operating systems or people who prefer to use the terminal:
 
 ```sh
-$ curl -O https://raw.githubusercontent.com/vcantrell/ServiceIcons/master/Icons/example.png
+$ curl -O https://raw.githubusercontent.com/vcantrell/ServiceIcons/master/png/example.png
 ```
 
 or
 
 ```sh
-$ wget https://raw.githubusercontent.com/vcantrell/ServiceIcons/master/Icons/example.png
+$ wget https://raw.githubusercontent.com/vcantrell/ServiceIcons/master/png/example.png
 ```
 
 ## 🎨 Icons
