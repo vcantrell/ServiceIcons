@@ -8,7 +8,7 @@
   <p align="center">
     🚀 The best place to find icons for your dashboards.
     <br />
-    <a href="#-icons"><strong>👀 See the icons</strong></a> • <<a href="https://www.linkedin.com/in/vcantrell/" target="_blank"><strong>💼 LinkedIn</strong></a>
+    <a href="#-icons"><strong>👀 See the icons</strong></a> • <a href="https://www.linkedin.com/in/vcantrell/" target="_blank"><strong>💼 LinkedIn</strong></a>
     <br />
     <br />
   </p>
@@ -29,16 +29,14 @@
 
 There are many Dashboards available that you can use with Dashboard Icons. Here are some of the popular ones.
 
-- [Homarr](https://github.com/ajnart/homarr)\*
-- [Dashy](https://github.com/Lissy93/dashy)\*
+- [Homarr](https://github.com/ajnart/homarr)
+- [Dashy](https://github.com/Lissy93/dashy)
 - [Homer Dashboard](https://github.com/bastienwirtz/homer)
 - [Heimdall](https://github.com/linuxserver/Heimdall)
 - [Organizr(v2)](https://github.com/causefx/Organizr)
 - [Flame](https://github.com/pawelmalak/flame)
 - [SUI](https://github.com/jeroenpardon/sui)
-- [Homepage](https://github.com/gethomepage/homepage)\*
-
-**Note:** Dashboards with a \* have native integration with Dashboard Icons.
+- [Homepage](https://github.com/gethomepage/homepage)
 
 ### 🛠️ Installation
 
