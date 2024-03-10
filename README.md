@@ -42,7 +42,7 @@ There are many Dashboards available that you can use with Dashboard Icons. Here 
 
 **Tip!** You can access Dashboard Icons online, faster, by using `https://raw.githubusercontent.com/vcantrell/ServiceIcons/master/Icons/example.png`. Just replace `example` with the name of the icon!
 
-To download an icon from the [icons page](#-icons), simply `Right click > Save link as`.
+To download an icon from the [icons page](ICONS.md), simply `Right click > Save link as`.
 
 For non-desktop operating systems or people who prefer to use the terminal:
 
